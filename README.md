@@ -90,19 +90,20 @@ Conclusión metodológica:
 
 ## Estructura del Repositorio
 
+```text
 satisfaccion_vida_ml/
 │
 ├── data/
-│ ├── OECD_DF_BLI_all.csv
-│ ├── gdp-per-capita-worldbank.csv
+│   ├── OECD_DF_BLI_all.csv
+│   ├── gdp-per-capita-worldbank.csv
 │
 ├── notebooks/
-│ └── analisis_satisfaccion.ipynb
+│   └── analisis_satisfaccion.ipynb
 │
 ├── dataset_satisfaccion_vida_2021_2025.csv
 ├── README.md
 └── requirements.txt
-
+```
 ---
 
 ## Reproducibilidad
